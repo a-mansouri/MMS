@@ -18,7 +18,7 @@ Simply click on provided each chapter google colab link to run a test codes.
 
 * Chapter 6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-mansouri/MMS/blob/master/MMS_98_2_Chp06(DCT).ipynb)
 
-* Chapter 7 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/MMedia/blob/master/MMS_98_2_Chp07(DWT).ipynb)
+* Chapter 7 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//a-mansouri/MMS/blob/master/MMS_98_2_Chp07(DWT).ipynb)
 
 
 
